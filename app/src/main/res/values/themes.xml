@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.CookEasy" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="windowSplashScreenBackground"> @color/white</item>
+        <item name="windowSplashScreenAnimatedIcon"> @drawable/balanceddiet</item>
+        <item name="android:windowSplashScreenAnimationDuration" tools:targetApi="s">500</item>
+
+    </style>
+
+
+
+</resources>
